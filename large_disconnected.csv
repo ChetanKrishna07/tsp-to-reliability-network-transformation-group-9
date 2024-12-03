@@ -1,0 +1,7 @@
+,A,B,C,D,E,F
+A,0,inf,20,inf,40,inf
+B,inf,0,inf,35,inf,30
+C,20,inf,0,inf,50,inf
+D,inf,35,inf,0,inf,40
+E,40,inf,50,inf,0,inf
+F,inf,30,inf,40,inf,0

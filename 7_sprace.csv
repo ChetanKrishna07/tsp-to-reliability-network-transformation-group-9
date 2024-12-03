@@ -1,0 +1,6 @@
+,City1,City2,City3,City4,City5
+City1,0,inf,3,inf,inf
+City2,inf,0,inf,inf,inf
+City3,3,inf,0,2,inf
+City4,inf,inf,2,0,1
+City5,inf,inf,inf,1,0

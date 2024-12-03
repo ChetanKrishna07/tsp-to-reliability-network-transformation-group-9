@@ -1,0 +1,5 @@
+,City1,City2,City3,City4
+City1,0,10,15,20
+City2,10,0,35,25
+City3,15,35,0,30
+City4,20,25,30,0

@@ -1,0 +1,6 @@
+,A,B,C,D,E
+A,0,inf,15,inf,inf
+B,inf,0,inf,25,inf
+C,15,inf,0,inf,20
+D,inf,25,inf,0,inf
+E,inf,inf,20,inf,0
